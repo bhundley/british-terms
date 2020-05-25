@@ -1,5 +1,4 @@
 {
-  "city": "London",
   "slang": [
       {"us": "apartment", "uk": "flat"},
       {"us": "elevator", "uk": "lift"},
@@ -21,9 +20,76 @@
       {"us": "uniform", "uk": "kit"},
       {"us": "tic-tac-toe", "uk": "noughts and crosses"},
       {"us": "dish towel", "uk": "tea cloth"},
-      {"us": "highway", "uk": "motorway"}
+      {"us": "highway", "uk": "motorway"},
+      {"us": "Tired", "uk": "Knackered"},
+      {"us": "Bro", "uk": "Bruv"},
+      {"us": "Beautiful/Cute", "uk": "Peng"},
+      {"us": "Isn't it", "uk": "Innit"},
+      {"us": "refereing to a group of men/yourself", "uk": "Mans/Mandem"},
+      {"us": "Jamaican Patois for 'What's Up", "uk": "Wah Gwan"},
+      {"us": "Okay/Cool", "uk": "Safe"},
+      {"us": "Dude/Guy", "uk": "Bloke"},
+      {"us": "Thing", "uk": "Ting"}
   ],
   "topSongs": "",
-  "topArtists": "",
-  "food": ["Fish and chips", "Eccles cake", "Black pudding", "Laverbread", "Cullen skink", "Scotch egg", "Steak and kidney pie", "Yorkshire pudding", "Shepherd's pie", "Toad in the hole", "Bread and butter pudding", "Haggis", "Lancashire hotpot", "Bubble and squeak"]
+  "topArtists": [
+        {
+            "artist": "AJ Tracy",
+            "genre": "Rap"
+        },
+        {
+            "artist": "Dave",
+            "genre": "Rap"
+        },
+        {
+            "artist": "Stormzy",
+            "genre": "Pop/Rap"
+        },
+        {
+            "artist": "Headie One",
+            "genre": "Rap"
+        },
+        {
+            "artist": "JHus",
+            "genre": "Rap"
+        },
+        {
+            "artist": "Ed Sheeran",
+            "genre": "Pop"
+        },
+        {
+            "artist": "Adele",
+            "genre": "Pop"
+        },
+        {
+            "artist": "The Beatles",
+            "genre": "Rock/Pop"
+        },
+        {
+            "artist": "The Zombies",
+            "genre": "Psych-Rock"
+        }
+  ],
+  "food": [
+      {
+          "name": "Fish and chips",
+          "image": "https://bhundley.github.io/british-terms/media/fish-chips.jpg",
+          "desc": "Fish and chips are..."
+      },
+      {
+          "name": "Eccles cake",
+          "image": "https://bhundley.github.io/british-terms/media/eccles-cakes.jpg",
+          "desc": "Fish and chips are..."
+      },
+      {
+          "name": "Black pudding",
+          "image": "https://bhundley.github.io/british-terms/media/black-pudding.jpg",
+          "desc": "Fish and chips are..."
+      },
+      {
+          "name": "Laverbread",
+          "image": "https://bhundley.github.io/british-terms/media/Laverbread.jpeg",
+          "desc": "Fish and chips are..."
+      }
+  ]
 }
