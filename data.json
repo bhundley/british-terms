@@ -124,39 +124,48 @@
     "topArtists": [
         {
             "artist": "AJ Tracy",
-            "genre": "Rap"
+            "genre": "Rap",
+            "image": "https://bhundley.github.io/british-terms/media/artists/AJ_Tracy.jpeg"
         },
         {
             "artist": "Dave",
-            "genre": "Rap"
+            "genre": "Rap",
+            "image": "https://bhundley.github.io/british-terms/media/artists/dave.png"
         },
         {
             "artist": "Stormzy",
-            "genre": "Pop/Rap"
+            "genre": "Pop/Rap",
+            "image": "https://bhundley.github.io/british-terms/media/artists/stormz.jpeg"
         },
         {
             "artist": "Headie One",
-            "genre": "Rap"
+            "genre": "Rap",
+            "image": "https://bhundley.github.io/british-terms/media/artists/HeadieOne.jpeg"
         },
         {
             "artist": "JHus",
-            "genre": "Rap"
+            "genre": "Rap",
+            "image": "https://bhundley.github.io/british-terms/media/artists/JHus.jpeg"
         },
         {
             "artist": "Ed Sheeran",
-            "genre": "Pop"
+            "genre": "Pop",
+            "image": "https://bhundley.github.io/british-terms/media/artists/Ed-Sheeran.jpeg"
         },
         {
             "artist": "Adele",
-            "genre": "Pop"
+            "genre": "Pop",
+            "image": "https://bhundley.github.io/british-terms/media/artists/Adele.jpeg"
         },
         {
             "artist": "The Beatles",
-            "genre": "Rock/Pop"
+            "genre": "Rock/Pop",
+            "image": "https://bhundley.github.io/british-terms/media/artists/The-Beatles.jpeg"
         },
         {
             "artist": "The Zombies",
-            "genre": "Psych-Rock"
+            "genre": "Psych-Rock",
+            "image": "https://bhundley.github.io/british-terms/media/artists/The-Zombies.jpeg"
         }
     ],
     "food": [
