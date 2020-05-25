@@ -1,38 +1,127 @@
 {
-  "slang": [
-      {"us": "apartment", "uk": "flat"},
-      {"us": "elevator", "uk": "lift"},
-      {"us": "sneakers", "uk": "trainers"},
-      {"us": "suspenders", "uk": "braces"},
-      {"us": "french fries", "uk": "chips"},
-      {"us": "potato chips", "uk": "crisps"},
-      {"us": "cookie", "uk": "biscuit"},
-      {"us": "subway", "uk": "underground"},
-      {"us": "line", "uk": "queue"},
-      {"us": "eraser", "uk": "rubber"},
-      {"us": "vacation", "uk": "holiday"},
-      {"us": "bathroom", "uk": "loo"},
-      {"us": "TV", "uk": "telly"},
-      {"us": "popsicle", "uk": "ice lolly"},
-      {"us": "flashlight", "uk": "torch"},
-      {"us": "garbage", "uk": "rubbish"},
-      {"us": "soccer", "uk": "football"},
-      {"us": "uniform", "uk": "kit"},
-      {"us": "tic-tac-toe", "uk": "noughts and crosses"},
-      {"us": "dish towel", "uk": "tea cloth"},
-      {"us": "highway", "uk": "motorway"},
-      {"us": "Tired", "uk": "Knackered"},
-      {"us": "Bro", "uk": "Bruv"},
-      {"us": "Beautiful/Cute", "uk": "Peng"},
-      {"us": "Isn't it", "uk": "Innit"},
-      {"us": "refereing to a group of men/yourself", "uk": "Mans/Mandem"},
-      {"us": "Jamaican Patois for 'What's Up", "uk": "Wah Gwan"},
-      {"us": "Okay/Cool", "uk": "Safe"},
-      {"us": "Dude/Guy", "uk": "Bloke"},
-      {"us": "Thing", "uk": "Ting"}
-  ],
-  "topSongs": "",
-  "topArtists": [
+    "slang": [
+        {
+            "us": "apartment",
+            "uk": "flat"
+        },
+        {
+            "us": "elevator",
+            "uk": "lift"
+        },
+        {
+            "us": "sneakers",
+            "uk": "trainers"
+        },
+        {
+            "us": "suspenders",
+            "uk": "braces"
+        },
+        {
+            "us": "french fries",
+            "uk": "chips"
+        },
+        {
+            "us": "potato chips",
+            "uk": "crisps"
+        },
+        {
+            "us": "cookie",
+            "uk": "biscuit"
+        },
+        {
+            "us": "subway",
+            "uk": "underground"
+        },
+        {
+            "us": "line",
+            "uk": "queue"
+        },
+        {
+            "us": "eraser",
+            "uk": "rubber"
+        },
+        {
+            "us": "vacation",
+            "uk": "holiday"
+        },
+        {
+            "us": "bathroom",
+            "uk": "loo"
+        },
+        {
+            "us": "TV",
+            "uk": "telly"
+        },
+        {
+            "us": "popsicle",
+            "uk": "ice lolly"
+        },
+        {
+            "us": "flashlight",
+            "uk": "torch"
+        },
+        {
+            "us": "garbage",
+            "uk": "rubbish"
+        },
+        {
+            "us": "soccer",
+            "uk": "football"
+        },
+        {
+            "us": "uniform",
+            "uk": "kit"
+        },
+        {
+            "us": "tic-tac-toe",
+            "uk": "noughts and crosses"
+        },
+        {
+            "us": "dish towel",
+            "uk": "tea cloth"
+        },
+        {
+            "us": "highway",
+            "uk": "motorway"
+        },
+        {
+            "us": "Tired",
+            "uk": "Knackered"
+        },
+        {
+            "us": "Bro",
+            "uk": "Bruv"
+        },
+        {
+            "us": "Beautiful/Cute",
+            "uk": "Peng"
+        },
+        {
+            "us": "Isn't it",
+            "uk": "Innit"
+        },
+        {
+            "us": "refereing to a group of men/yourself",
+            "uk": "Mans/Mandem"
+        },
+        {
+            "us": "Jamaican Patois for 'What's Up",
+            "uk": "Wah Gwan"
+        },
+        {
+            "us": "Okay/Cool",
+            "uk": "Safe"
+        },
+        {
+            "us": "Dude/Guy",
+            "uk": "Bloke"
+        },
+        {
+            "us": "Thing",
+            "uk": "Ting"
+        }
+    ],
+    "topArtists": [
         {
             "artist": "AJ Tracy",
             "genre": "Rap"
@@ -69,27 +158,27 @@
             "artist": "The Zombies",
             "genre": "Psych-Rock"
         }
-  ],
-  "food": [
-      {
-          "name": "Fish and chips",
-          "image": "https://bhundley.github.io/british-terms/media/fish-chips.jpg",
-          "desc": "Fish and chips are..."
-      },
-      {
-          "name": "Eccles cake",
-          "image": "https://bhundley.github.io/british-terms/media/eccles-cakes.jpg",
-          "desc": "Fish and chips are..."
-      },
-      {
-          "name": "Black pudding",
-          "image": "https://bhundley.github.io/british-terms/media/black-pudding.jpg",
-          "desc": "Fish and chips are..."
-      },
-      {
-          "name": "Laverbread",
-          "image": "https://bhundley.github.io/british-terms/media/Laverbread.jpeg",
-          "desc": "Fish and chips are..."
-      }
-  ]
+    ],
+    "food": [
+        {
+            "name": "Fish and chips",
+            "image": "https://bhundley.github.io/british-terms/media/food/fish-chips.jpg",
+            "desc": "Fish and chips are..."
+        },
+        {
+            "name": "Eccles cake",
+            "image": "https://bhundley.github.io/british-terms/media/food/eccles-cakes.jpg",
+            "desc": "Fish and chips are..."
+        },
+        {
+            "name": "Black pudding",
+            "image": "https://bhundley.github.io/british-terms/media/food/black-pudding.jpg",
+            "desc": "Fish and chips are..."
+        },
+        {
+            "name": "Laverbread",
+            "image": "https://bhundley.github.io/british-terms/media/food/Laverbread.jpeg",
+            "desc": "Fish and chips are..."
+        }
+    ]
 }
