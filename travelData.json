@@ -50,6 +50,7 @@
     },
     {
         "name": "Manchester",
+        "image": "https://bhundley.github.io/british-terms/media/cities/manchester.jpg",
         "lodging": [
           {
             "name": "hostel name",
@@ -96,6 +97,7 @@
     },
     {
         "name": "Edinburgh",
+        "image": "https://bhundley.github.io/british-terms/media/cities/edinburgh.jpg",
         "lodging": [
           {
             "name": "hostel name",
@@ -142,6 +144,7 @@
     },
     {
         "name": "Liverpool",
+        "image": "https://bhundley.github.io/british-terms/media/cities/liverpool.jpg",
         "lodging": [
           {
             "name": "hostel name",
@@ -188,6 +191,7 @@
     },
     {
         "name": "Bristol",
+        "image": "https://bhundley.github.io/british-terms/media/cities/bristol.jpg",
         "lodging": [
           {
             "name": "hostel name",
@@ -234,6 +238,7 @@
     },
     {
         "name": "Glasgow",
+        "image": "https://bhundley.github.io/british-terms/media/cities/glasgow.jpg",
         "lodging": [
           {
             "name": "hostel name",
