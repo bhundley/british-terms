@@ -1,0 +1,288 @@
+{
+  "cities": [
+    {
+        "name": "London",
+        "lodging": [
+          {
+            "name": "hostel name",
+            "website": "website name",
+            "address": "address",
+            "type": "hostel or hotel",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "food": [
+          {
+            "name": "resturant name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of food",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "activities": [
+          {
+            "name": "attraction name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of activities",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "attractions": [
+          {
+          "name": "attraction name",
+          "website": "website name",
+          "address": "address",
+          "type": "type of attraction",
+          "image": "image",
+          "description": "description",
+          "price": "pound rating"
+        }]
+
+    },
+    {
+        "name": "Manchester",
+        "lodging": [
+          {
+            "name": "hostel name",
+            "website": "website name",
+            "address": "address",
+            "type": "hostel or hotel",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "food": [
+          {
+            "name": "resturant name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of food",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "activities": [
+          {
+            "name": "attraction name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of activities",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "attractions": [
+          {
+          "name": "attraction name",
+          "website": "website name",
+          "address": "address",
+          "type": "type of attraction",
+          "image": "image",
+          "description": "description",
+          "price": "pound rating"
+        }]
+    },
+    {
+        "name": "Edinburgh",
+        "lodging": [
+          {
+            "name": "hostel name",
+            "website": "website name",
+            "address": "address",
+            "type": "hostel or hotel",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "food": [
+          {
+            "name": "resturant name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of food",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "activities": [
+          {
+            "name": "attraction name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of activities",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "attractions": [
+          {
+          "name": "attraction name",
+          "website": "website name",
+          "address": "address",
+          "type": "type of attraction",
+          "image": "image",
+          "description": "description",
+          "price": "pound rating"
+        }]
+    },
+    {
+        "name": "Liverpool",
+        "lodging": [
+          {
+            "name": "hostel name",
+            "website": "website name",
+            "address": "address",
+            "type": "hostel or hotel",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "food": [
+          {
+            "name": "resturant name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of food",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "activities": [
+          {
+            "name": "attraction name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of activities",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "attractions": [
+          {
+          "name": "attraction name",
+          "website": "website name",
+          "address": "address",
+          "type": "type of attraction",
+          "image": "image",
+          "description": "description",
+          "price": "pound rating"
+        }]
+    },
+    {
+        "name": "Bristol",
+        "lodging": [
+          {
+            "name": "hostel name",
+            "website": "website name",
+            "address": "address",
+            "type": "hostel or hotel",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "food": [
+          {
+            "name": "resturant name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of food",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "activities": [
+          {
+            "name": "attraction name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of activities",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "attractions": [
+          {
+          "name": "attraction name",
+          "website": "website name",
+          "address": "address",
+          "type": "type of attraction",
+          "image": "image",
+          "description": "description",
+          "price": "pound rating"
+        }]
+    },
+    {
+        "name": "Glasgow",
+        "lodging": [
+          {
+            "name": "hostel name",
+            "website": "website name",
+            "address": "address",
+            "type": "hostel or hotel",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "food": [
+          {
+            "name": "resturant name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of food",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "activities": [
+          {
+            "name": "attraction name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of activities",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "attractions": [
+          {
+          "name": "attraction name",
+          "website": "website name",
+          "address": "address",
+          "type": "type of attraction",
+          "image": "image",
+          "description": "description",
+          "price": "pound rating"
+        }]
+    }
+  ],
+  "extras": [
+    {
+      "slang": "slang",
+      "typical foods": "da food" ,
+      "music in uk": "music"
+    }
+  ]
+}
