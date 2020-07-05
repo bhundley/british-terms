@@ -2,6 +2,7 @@
   "cities": [
     {
         "name": "London",
+        "image": "https://bhundley.github.io/british-terms/media/cities/london.jpg",
         "lodging": [
           {
             "name": "hostel name",
