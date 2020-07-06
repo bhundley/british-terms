@@ -1,0 +1,287 @@
+{
+  "cities": [
+    {
+        "name": "London",
+        "image": "https://bhundley.github.io/british-terms/media/cities/london.jpg",
+        "lodging": [
+          {
+            "name": "hostel name",
+            "website": "website name",
+            "address": "address",
+            "type": "hostel or hotel",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "food": [
+          {
+            "name": "resturant name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of food",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "activities": [
+          {
+            "name": "attraction name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of activities",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "attractions": [
+          {
+          "name": "attraction name",
+          "website": "website name",
+          "address": "address",
+          "type": "type of attraction",
+          "image": "image",
+          "description": "description",
+          "price": "pound rating"
+        }]
+
+    },
+    {
+        "name": "Manchester",
+        "image": "https://bhundley.github.io/british-terms/media/cities/manchester.jpg",
+        "lodging": [
+          {
+            "name": "hostel name",
+            "website": "website name",
+            "address": "address",
+            "type": "hostel or hotel",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "food": [
+          {
+            "name": "resturant name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of food",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "activities": [
+          {
+            "name": "attraction name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of activities",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "attractions": [
+          {
+          "name": "attraction name",
+          "website": "website name",
+          "address": "address",
+          "type": "type of attraction",
+          "image": "image",
+          "description": "description",
+          "price": "pound rating"
+        }]
+    },
+    {
+        "name": "Edinburgh",
+        "image": "https://bhundley.github.io/british-terms/media/cities/edinburgh.jpg",
+        "lodging": [
+          {
+            "name": "hostel name",
+            "website": "website name",
+            "address": "address",
+            "type": "hostel or hotel",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "food": [
+          {
+            "name": "resturant name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of food",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "activities": [
+          {
+            "name": "attraction name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of activities",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "attractions": [
+          {
+          "name": "attraction name",
+          "website": "website name",
+          "address": "address",
+          "type": "type of attraction",
+          "image": "image",
+          "description": "description",
+          "price": "pound rating"
+        }]
+    },
+    {
+        "name": "Liverpool",
+        "image": "https://bhundley.github.io/british-terms/media/cities/liverpool.jpg",
+        "lodging": [
+          {
+            "name": "hostel name",
+            "website": "website name",
+            "address": "address",
+            "type": "hostel or hotel",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "food": [
+          {
+            "name": "resturant name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of food",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "activities": [
+          {
+            "name": "attraction name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of activities",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "attractions": [
+          {
+          "name": "attraction name",
+          "website": "website name",
+          "address": "address",
+          "type": "type of attraction",
+          "image": "image",
+          "description": "description",
+          "price": "pound rating"
+        }]
+    },
+    {
+        "name": "Bristol",
+        "image": "https://bhundley.github.io/british-terms/media/cities/bristol.jpg",
+        "lodging": [
+          {
+            "name": "hostel name",
+            "website": "website name",
+            "address": "address",
+            "type": "hostel or hotel",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "food": [
+          {
+            "name": "resturant name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of food",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "activities": [
+          {
+            "name": "attraction name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of activities",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "attractions": [
+          {
+          "name": "attraction name",
+          "website": "website name",
+          "address": "address",
+          "type": "type of attraction",
+          "image": "image",
+          "description": "description",
+          "price": "pound rating"
+        }]
+    },
+    {
+        "name": "Glasgow",
+        "image": "https://bhundley.github.io/british-terms/media/cities/glasgow.jpg",
+        "lodging": [
+          {
+            "name": "hostel name",
+            "website": "website name",
+            "address": "address",
+            "type": "hostel or hotel",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "food": [
+          {
+            "name": "resturant name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of food",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "activities": [
+          {
+            "name": "attraction name",
+            "website": "website name",
+            "address": "address",
+            "type": "type of activities",
+            "image": "image",
+            "description": "description",
+            "price": "pound rating"
+          }
+        ],
+        "attractions": [
+          {
+          "name": "attraction name",
+          "website": "website name",
+          "address": "address",
+          "type": "type of attraction",
+          "image": "image",
+          "description": "description",
+          "price": "pound rating"
+        }]
+    }
+  ]
+}
