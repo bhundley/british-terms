@@ -10,11 +10,11 @@ import Foundation
 import UIKit
 
 class DataRequestManager {
+    fileprivate let citiesUrl = "https://bhundley.github.io/british-terms/travelData.json"
     fileprivate let factsUrl = "https://bhundley.github.io/british-terms/data.json"
-    
     static let shared = DataRequestManager()
     
-    func getData(completion: ((FactsData) -> Void)?) {
+    func getFactData(completion: ((FactsData) -> Void)?) {
         guard let url = URL(string: factsUrl) else { return }
 
         URLSession.shared.dataTask(with: url) { data, response, error in
@@ -25,6 +25,21 @@ class DataRequestManager {
             
             if let handler = completion, let testData = try? JSONDecoder().decode(FactsData.self, from: data) {
                 handler(testData)
+            }
+        }.resume()
+    }
+    
+    func getCityData(completion: ((CityData) -> Void)?) {
+        guard let url = URL(string: citiesUrl) else { return }
+
+        URLSession.shared.dataTask(with: url) { data, response, error in
+            guard let data = data else {
+                print("No data in response: \(error?.localizedDescription ?? "unknown error")")
+                return
+            }
+            
+            if let handler = completion, let cityData = try? JSONDecoder().decode(CityData.self, from: data) {
+                handler(cityData)
             }
         }.resume()
     }

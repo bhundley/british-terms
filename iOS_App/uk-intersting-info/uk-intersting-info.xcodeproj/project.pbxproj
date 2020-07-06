@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		08568CAC24B2763B00AB87F1 /* CityTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08568CAB24B2763B00AB87F1 /* CityTableViewCell.swift */; };
+		08568CAE24B2772B00AB87F1 /* CitiesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08568CAD24B2772B00AB87F1 /* CitiesViewController.swift */; };
+		08568CB024B29CE900AB87F1 /* CityDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08568CAF24B29CE900AB87F1 /* CityDetailsViewController.swift */; };
+		08568CB224B2C42400AB87F1 /* CityEventDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08568CB124B2C42400AB87F1 /* CityEventDetailsViewController.swift */; };
+		08568CB424B2CC7500AB87F1 /* CityEventsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08568CB324B2CC7500AB87F1 /* CityEventsViewController.swift */; };
 		D04B153F247B977F00DD6D74 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04B153E247B977F00DD6D74 /* AppDelegate.swift */; };
 		D04B1541247B977F00DD6D74 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04B1540247B977F00DD6D74 /* SceneDelegate.swift */; };
 		D04B1543247B977F00DD6D74 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04B1542247B977F00DD6D74 /* ViewController.swift */; };
@@ -19,6 +24,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		08568CAB24B2763B00AB87F1 /* CityTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityTableViewCell.swift; sourceTree = "<group>"; };
+		08568CAD24B2772B00AB87F1 /* CitiesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CitiesViewController.swift; sourceTree = "<group>"; };
+		08568CAF24B29CE900AB87F1 /* CityDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityDetailsViewController.swift; sourceTree = "<group>"; };
+		08568CB124B2C42400AB87F1 /* CityEventDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityEventDetailsViewController.swift; sourceTree = "<group>"; };
+		08568CB324B2CC7500AB87F1 /* CityEventsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityEventsViewController.swift; sourceTree = "<group>"; };
 		D04B153B247B977F00DD6D74 /* uk-intersting-info.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "uk-intersting-info.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D04B153E247B977F00DD6D74 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D04B1540247B977F00DD6D74 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +75,7 @@
 				D04B153E247B977F00DD6D74 /* AppDelegate.swift */,
 				D04B1540247B977F00DD6D74 /* SceneDelegate.swift */,
 				D04B1542247B977F00DD6D74 /* ViewController.swift */,
+				08568CAF24B29CE900AB87F1 /* CityDetailsViewController.swift */,
 				D04B1544247B977F00DD6D74 /* Main.storyboard */,
 				D04B1547247B978300DD6D74 /* Assets.xcassets */,
 				D04B1549247B978300DD6D74 /* LaunchScreen.storyboard */,
@@ -72,6 +83,10 @@
 				D04B1552247B985500DD6D74 /* RequestManager.swift */,
 				D04B1554247B988C00DD6D74 /* Models.swift */,
 				D04B1556247BA0C200DD6D74 /* DetailsViewController.swift */,
+				08568CAB24B2763B00AB87F1 /* CityTableViewCell.swift */,
+				08568CAD24B2772B00AB87F1 /* CitiesViewController.swift */,
+				08568CB124B2C42400AB87F1 /* CityEventDetailsViewController.swift */,
+				08568CB324B2CC7500AB87F1 /* CityEventsViewController.swift */,
 			);
 			path = "uk-intersting-info";
 			sourceTree = "<group>";
@@ -147,10 +162,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08568CB024B29CE900AB87F1 /* CityDetailsViewController.swift in Sources */,
 				D04B1543247B977F00DD6D74 /* ViewController.swift in Sources */,
+				08568CAC24B2763B00AB87F1 /* CityTableViewCell.swift in Sources */,
+				08568CB424B2CC7500AB87F1 /* CityEventsViewController.swift in Sources */,
 				D04B153F247B977F00DD6D74 /* AppDelegate.swift in Sources */,
 				D04B1541247B977F00DD6D74 /* SceneDelegate.swift in Sources */,
 				D04B1553247B985500DD6D74 /* RequestManager.swift in Sources */,
+				08568CAE24B2772B00AB87F1 /* CitiesViewController.swift in Sources */,
+				08568CB224B2C42400AB87F1 /* CityEventDetailsViewController.swift in Sources */,
 				D04B1555247B988C00DD6D74 /* Models.swift in Sources */,
 				D04B1557247BA0C200DD6D74 /* DetailsViewController.swift in Sources */,
 			);

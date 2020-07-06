@@ -30,3 +30,42 @@ struct ArtistData: Codable {
     var genre: String?
     var image: String?
 }
+
+class Lodging: CityEvent {
+    
+}
+
+class Food: CityEvent {
+    
+}
+
+class Activity: CityEvent {
+    
+}
+
+class Attraction: CityEvent {
+    
+}
+
+class CityEvent: Codable {
+    var name: String?
+    var website: String?
+    var address: String?
+    var type: String?
+    var image: String?
+    var description: String?
+    var price: String?
+}
+
+struct City: Codable {
+    var name: String?
+    var image: String?
+    var lodging: [Lodging]?
+    var food: [Food]?
+    var activities: [Activity]?
+    var attractions: [Attraction]?
+}
+
+struct CityData: Codable {
+    var cities: [City]?
+}

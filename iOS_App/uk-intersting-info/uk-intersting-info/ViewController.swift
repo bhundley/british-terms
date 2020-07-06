@@ -16,12 +16,14 @@ class TableViewController: UITableViewController {
     var factData: FactsData?
     
     var sections: [Section] = [.slang, .artist, .food]
+    //var sections: [Section] = [.slang, .artist, .food]
+
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
         // Grab the data for the facts
-        DataRequestManager.shared.getData {[weak self] data in
+        DataRequestManager.shared.getFactData {[weak self] data in
             self?.factData = data
             
             DispatchQueue.main.async {
@@ -30,7 +32,7 @@ class TableViewController: UITableViewController {
         }
     }
     
-    ///MARK:  Tableview Delegate Methods
+    //MARK:  Tableview Delegate Methods
     
     override func numberOfSections(in tableView: UITableView) -> Int {
         return sections.count
@@ -72,7 +74,7 @@ class TableViewController: UITableViewController {
         
         switch section {
         case .slang:
-            cell.textLabel?.text = factData.slang?[indexPath.row].us
+            cell.textLabel?.text = factData.slang?[indexPath.row].uk
         case .artist:
             cell.textLabel?.text = factData.topArtists?[indexPath.row].artist
         case .food:
