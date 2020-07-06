@@ -5,11 +5,20 @@
         "image": "https://bhundley.github.io/british-terms/media/cities/london.jpg",
         "lodging": [
           {
-            "name": "hostel name",
+            "name": "Hilton London Paddington, London",
             "website": "website name",
             "address": "address",
             "type": "hostel or hotel",
-            "image": "image",
+            "image": "https://exp.cdn-hotels.com/hotels/1000000/600000/598200/598182/af5f76f2_z.jpg?impolicy=fcrop&w=773&h=530&q=high",
+            "description": "description",
+            "price": "pound rating"
+          },
+          {
+            "name": "Hilton London Euston",
+            "website": "website name",
+            "address": "address",
+            "type": "hostel or hotel",
+            "image": "https://exp.cdn-hotels.com/hotels/1000000/10000/2700/2612/8d72c731_z.jpg?impolicy=fcrop&w=773&h=530&q=high",
             "description": "description",
             "price": "pound rating"
           }
