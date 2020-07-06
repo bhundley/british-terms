@@ -6,20 +6,20 @@
         "lodging": [
           {
             "name": "Hilton London Paddington, London",
-            "website": "website name",
-            "address": "address",
+            "website": "https://www.booking.com/hotel/gb/hilton-london-paddington.html",
+            "address": "146 Praed Street, London, W2 1EE, GB",
             "type": "hostel or hotel",
             "image": "https://exp.cdn-hotels.com/hotels/1000000/600000/598200/598182/af5f76f2_z.jpg?impolicy=fcrop&w=773&h=530&q=high",
-            "description": "description",
+            "description": "Connected by footbridge to Paddington Station, this 4-star Hilton has Art Deco-style rooms and a gym. Hyde Park and Kensington Palace are within 10 minutes’ walking distance.  Guests at the Hilton London Paddington are only 15 minutes journey from Heathrow Airport, via the Heathrow Express train service at Paddington.  The stylish rooms each feature a modern flat-screen TV, a seating area and minibar. There are also luxurious bathrooms, and large windows letting in plenty of natural light.",
             "price": "pound rating"
           },
           {
             "name": "Hilton London Euston",
-            "website": "website name",
-            "address": "address",
+            "website": "https://www.booking.com/hotel/gb/hilton-london-euston.en-gb.html",
+            "address": " 17-18 Upper Woburn Place, Camden, London, WC1H 0HT, United Kingdom",
             "type": "hostel or hotel",
             "image": "https://exp.cdn-hotels.com/hotels/1000000/10000/2700/2612/8d72c731_z.jpg?impolicy=fcrop&w=773&h=530&q=high",
-            "description": "description",
+            "description": "In a magnificent Victorian building, the 4-star Hilton Euston features 2 stylish restaurants and is located just a 5-minute walk from Euston Station.  The elegant bedrooms at Hilton London Euston each have a luxurious marble bathroom with free toiletries. Rooms also feature air conditioning, Wi-Fi access and a TV with on-demand movies.",
             "price": "pound rating"
           }
         ],
