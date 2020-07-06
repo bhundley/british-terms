@@ -10,7 +10,7 @@ import UIKit
 
 enum CityEventType: String {
     case food = "Food"
-    case lodging = "Loding"
+    case lodging = "Lodging"
     case activity = "Activity"
     case attraction = "Attraction"
     

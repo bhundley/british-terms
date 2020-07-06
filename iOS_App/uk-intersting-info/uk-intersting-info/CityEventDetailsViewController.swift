@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import MapKit
 
 class CityEventDetailsViewController: UIViewController {
     @IBOutlet weak var titleLabel: UILabel!
@@ -38,9 +39,16 @@ class CityEventDetailsViewController: UIViewController {
         UIApplication.shared.open(url)
     }
     
-    @IBAction func addressButtonPressed(_ sender: Any) {
-//        let mapItem = MKMapItem(placemark: MKPlacemark(coordinate: coordinate, addressDictionary:nil))
-//        mapItem.name = "Target location"
-//        mapItem.openInMaps(launchOptions: [MKLaunchOptionsDirectionsModeKey : MKLaunchOptionsDirectionsModeDriving])
+    @IBAction func addressButtonPressed(_ sender: UIButton) {
+        guard let address = cityEvent?.address else { return }
+        
+        let geocoder = CLGeocoder()
+        geocoder.geocodeAddressString(address) {placemarks,_ in
+            if let placemarks = placemarks, let coords = placemarks.first?.location?.coordinate {
+                let mapItem = MKMapItem(placemark: MKPlacemark(coordinate: coords, addressDictionary: nil))
+                mapItem.name = self.cityEvent?.name
+                mapItem.openInMaps(launchOptions: [MKLaunchOptionsDirectionsModeKey : MKLaunchOptionsDirectionsModeDriving])
+            }
+        }
     }
 }
